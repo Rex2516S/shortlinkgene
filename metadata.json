@@ -1,0 +1,5 @@
+{
+  "name": "极简短链接生成器",
+  "description": "一个快速、简单的短链接生产工具，支持即时缩短和重定向。",
+  "requestFramePermissions": []
+}
